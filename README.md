@@ -7,11 +7,17 @@
 **Uso:** Su uso es muy sencillo. Solo tienes que ingresar tu presupuesto, realizar clic en el botón + luego colocar el nombre de tu gasto, la cantidad, su categoría y por último clic al botón añadir gasto.
 
 
+## Características Principales
 
+**Interfaz Intuitiva**: Facilita el seguimiento de tus finanzas de manera rápida y sencilla.
+**Registro de Gastos**: Registra fácilmente tus gastos y clasifícalos en categorías.
+**Establecimiento de Presupuestos**: Establece límites de gasto por categoría para un manejo financiero eficiente.
+**Seguimiento de Ingresos**: Realiza un seguimiento de tus ingresos para obtener una visión completa de tu situación financiera.
+**Compatibilidad Multiplataforma**: Accede a tu información desde dispositivos móviles, computadoras de escritorio y navegadores web.
 
 ## Tecnologías Stack
 
-**Client:** React-Vite, Redux, CSS3
+**Client:** React-Vite, Redux, JavaScript, HTML5, CSS3
 
 **Server:** Node, NPM
 
