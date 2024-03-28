@@ -27,7 +27,7 @@
 
 ## Licencia
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)  Opción flexible y de código abierto permito a otros usar, modificar y distribuir el software, incluso para fines comerciales.
 
 
 ## Screenshots
