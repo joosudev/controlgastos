@@ -22,7 +22,7 @@
 
 ## Screenshots
 
-![App Screenshot]()![img-01](https://github.com/joosudev/controlgastos/assets/47118243/78980c30-7716-499e-bd25-88ec10beb316)
+[img-01](https://github.com/joosudev/controlgastos/assets/47118243/78980c30-7716-499e-bd25-88ec10beb316)
 
 ![img-02](https://github.com/joosudev/controlgastos/assets/47118243/359cfd32-758a-433e-8687-2e1f45ca796b)
 
