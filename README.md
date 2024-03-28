@@ -26,6 +26,8 @@
 
 ![img-02](https://github.com/joosudev/controlgastos/assets/47118243/359cfd32-758a-433e-8687-2e1f45ca796b)
 
+![img-03](https://github.com/joosudev/controlgastos/assets/47118243/24d9d12b-afda-4d2f-bd68-9f98bd790033)
+
 ![img-03](https://github.com/joosudev/controlgastos/assets/47118243/b3ab74a5-67bd-4290-bd22-46763c377eff)
 
 
